@@ -11,7 +11,7 @@
 - Spent this evening installing CentOS 7 on a Virtual Machine
 - Had issues with the resolution being stuck at 800x600
 - For some reason the mouse died in the VM. Hence decided to switch to a Ubuntu VM instance
-- CentOS 7 is a pain to setup compared to Ubuntu
+- CentOS 7 is a pain to setup compared to Ubuntu 😞
 
 
 ### Build USD

@@ -4,7 +4,7 @@
 # Diary
 
 
-## 2019-06-29 - Friday
+## 2019-06-28 - Friday
 
 
 ### Install Platform 
@@ -29,3 +29,12 @@ python2 -m pip install PyOpenGL PyOpenGL_accelerate
 sudo apt-get install libglew-dev libglfw3-dev libglfw3
 
 ```
+
+
+## 2019-06-29 - Saturday
+
+Probably won't get much done today as I had Muai Thai this arvo and Have a bbq tonight.
+
+Though, tomorrow I'll look at spinning up a fresh Ubuntu VM as the one I'm currently seems sluggish. 
+Also, I'll probably look at reseting my host OS (kubuntu) as I think I've done too much customisation and have probably added too much bloat and tinkering to get kubuntu to work on my xps 15 laptop, 
+Perhaps I should return to windows for my host OS 😞

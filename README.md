@@ -19,7 +19,7 @@ Ubuntu
 
 Needed to setup the following dependencies before I could build USD
 ```
-python 2.7 (I've been using python 3 these days as my base py version)
+python 2.7 (have been using python3 these days as my base py version, hence need to keep in mind about py2.7 for vfx)
 
 sudo apt-get install qt4-qmake
 sudo apt-get install libqt4-dev

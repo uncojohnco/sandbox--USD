@@ -42,3 +42,11 @@ Probably won't get much done today as I had Muai Thai this arvo and Have a bbq t
 - This is probably due to the various bloat I've added while doing prototype dev. In different domains i.e webdev, data analytics, machine learning, and musc personal projects. 🙃
 - Also, I'll probably look at reseting my host OS (kubuntu) as I think I've done too much customisation and have probably added too much bloat and tinkering to get kubuntu to work on my xps 15 laptop, 
 - Perhaps I should return to windows for my host OS 😞
+
+## 2019-06-30 - Sunday
+
+Morning...
+- Woke up slightly dusty (had a few drinks at the BBQ last night...)
+- Decided to wipe my laptop and installed kubuntu 19.04
+- Setup a VM for USD with Ubuntu 18.04 LTS
+- Next steps to setup USD on Ubuntu VM...

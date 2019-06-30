@@ -3,9 +3,12 @@
 
 # Diary
 
+## 2019-06-28 - Thursday
+Watched videos...
+- [USD Building Asset Pipelines](https://www.youtube.com/watch?v=4W5D-IuRyaM)
+
 
 ## 2019-06-28 - Friday
-
 
 ### Install Platform 
 - Spent this evening installing CentOS 7 on a Virtual Machine
@@ -21,8 +24,13 @@ Needed to setup the following dependencies before I could build USD
 ```
 git clone https://github.com/PixarAnimationStudios/USD.git
 
-sudo apt-get install qt4-qmake
-sudo apt-get install libqt4-dev
+sudo apt install gcc
+sudo apt install build-essential
+sudo apt install cmake
+
+sudo apt install qt4-qmake
+sudo apt install libqt4-dev
+audo apt install python-pip
 python2 -m pip install PySide
 
 python2 -m pip install PyOpenGL PyOpenGL_accelerate

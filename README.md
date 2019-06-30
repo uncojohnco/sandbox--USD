@@ -19,9 +19,7 @@ Ubuntu
 
 Needed to setup the following dependencies before I could build USD
 ```
-python 2.7 (have been using python3 these days as my base py version, 
-hence need to keep in mind about py2.7 for vfx). 
-Have been using Conda to activat a python 2.7 environ.
+git clone https://github.com/PixarAnimationStudios/USD.git
 
 sudo apt-get install qt4-qmake
 sudo apt-get install libqt4-dev

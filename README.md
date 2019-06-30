@@ -42,6 +42,8 @@ sudo apt install libglew-dev libglfw3-dev libglfw3
 # sudo apt install libxcursor-dev
 # sudo apt install libxinerama-dev
 sudo apt install xorg-dev
+
+sudo apt install libcanberra-gtk-module libcanberra-gtk3-module
 ```
 
 May look at creating a rez package to launch into a USD environ...

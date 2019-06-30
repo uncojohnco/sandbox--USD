@@ -28,12 +28,14 @@ sudo apt install gcc
 sudo apt install build-essential
 sudo apt install cmake
 
-sudo apt install qt4-qmake
-sudo apt install libqt4-dev
-audo apt install python-pip
-python2 -m pip install PySide
+# sudo apt install qt4-qmake
+# sudo apt install libqt4-dev
+# audo apt install python-pip
+# python2 -m pip install PySide
 
-python2 -m pip install PyOpenGL PyOpenGL_accelerate
+sudo apt-get install pyside-tools
+
+python2 -m pip install PyOpenGL # PyOpenGL_accelerate
 sudo apt-get install libglew-dev libglfw3-dev libglfw3
 
 ```

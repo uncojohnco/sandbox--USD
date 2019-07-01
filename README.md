@@ -19,7 +19,7 @@ Watched videos...
 
 
 #### Build USD
-Ubuntu
+Ubuntu 18.04 LTS
 
 Needed to setup the following dependencies before I could build USD
 ```
@@ -70,3 +70,4 @@ Afternoon...
 - built USD
 - When executing `usdview extras/usd/tutorials/convertingLayerFormats/Sphere.usda` the stageview is not rendering [stageview is blank/not rendering](https://github.com/uncojohnco/usd-sandbox/issues/13)
 - May have to resort to installing USD on the host OS, though I'd rather not have to do this...
+- TODO: Check out the pixar USD repo if anyone has posted similar issues...

@@ -87,6 +87,6 @@ Afternoon...
 
 Evening
  - Was hopping to use an enviroment from work to ticker with USD. Unfortunatley this fell through as Maya kept crashing due to openGL issues when using the Teradici =\ 
- - Attempted to Install Maya 2017 again with sucess!
+ - Attempted to Install Maya 2017 again on my laptop with sucess this time around!
  - Now looking at building Maya_USD plugin...
  

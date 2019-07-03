@@ -71,3 +71,16 @@ Afternoon...
 - When executing `usdview extras/usd/tutorials/convertingLayerFormats/Sphere.usda` the stageview is not rendering [stageview is blank/not rendering](https://github.com/uncojohnco/usd-sandbox/issues/13)
 - May have to resort to installing USD on the host OS, though I'd rather not have to do this...
 - TODO: Check out the pixar USD repo if anyone has posted similar issues...
+
+### 2019-07-01 - Monday
+
+ - Resolved [stageview is blank/not rendering](https://github.com/uncojohnco/usd-sandbox/issues/13)
+ - Attempted to build Maya 2017 in ubuntu
+  - followed the below gist, though Maya still keeps segfaulting on launch
+  - https://gist.githubusercontent.com/nrtkbb/c6e8b71deb00ce19b9915714de87fc61/raw/f47d6a23dcd3625ba367f06f3aeeaee3ce92495c/maya2018install.sh
+  
+### 2019-07-01 - Tuesday
+
+Evening
+ - Attempted to Install Maya 2017 again with sucess!
+ - Now looking at building Maya_USD plugin

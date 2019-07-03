@@ -1,6 +1,7 @@
 # usd-sandbox
 
-https://github.com/PixarAnimationStudios/USD
+- https://github.com/PixarAnimationStudios/USD
+- https://github.com/vfxpro99/usd-resources
 
 ## Projects
 - [deployment](https://github.com/uncojohnco/usd-sandbox/projects/2)

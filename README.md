@@ -92,3 +92,4 @@ Evening
   - spoke too soon, encountered https://github.com/uncojohnco/usd-sandbox/issues/15
  - ~~Now looking at building Maya_USD plugin...~~
  
+I'll have a crack at this again on the weekend, may try centos again...

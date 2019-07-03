@@ -2,6 +2,7 @@
 
 - https://github.com/PixarAnimationStudios/USD
 - https://github.com/vfxpro99/usd-resources
+- https://jurajtomori.wordpress.com/2017/06/25/usd-set-up-evaluation-notes/
 
 ## Projects
 - [deployment](https://github.com/uncojohnco/usd-sandbox/projects/2)

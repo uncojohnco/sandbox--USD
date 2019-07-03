@@ -2,6 +2,9 @@
 
 https://github.com/PixarAnimationStudios/USD
 
+## Projects
+- [deployment](https://github.com/uncojohnco/usd-sandbox/projects/2)
+
 ## Diary
 
 ### 2019-06-28 - Thursday

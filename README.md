@@ -83,4 +83,5 @@ Afternoon...
 
 Evening
  - Attempted to Install Maya 2017 again with sucess!
- - Now looking at building Maya_USD plugin
+ - Now looking at building Maya_USD plugin...
+ 
